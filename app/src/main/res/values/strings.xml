@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SunRain</string>
+    <string name="configure_application">Configure the application!</string>
+    <string name="welcome">Welcome to the SunRain app</string>
+    <string name="add_profile">Add another person\'s profile?</string>
+    <string name="nameProfile">What do you call the profile?</string>
+    <string name="finished_choosing">"Have you finished choosing clothes for "</string>
+    <string name="answer">Answer the following questions:</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
 </resources>
