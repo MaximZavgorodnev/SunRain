@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">SunRain</string>
     <string name="configure_application">Произвести настройку приложения!</string>
-    <string name="welcome">Добро пожаловать в приложение SunRain</string>
+    <string name="welcome">ДОБРО ПОЖАЛОВАТЬ В ПРИЛОЖЕНИЕ SunRain</string>
     <string name="add_profile">Добавить профиль другого человека?</string>
     <string name="yes">да</string>
     <string name="no">нет</string>
