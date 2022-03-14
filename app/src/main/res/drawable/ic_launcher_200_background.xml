@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="0.073901564"
+      android:scaleY="0.073901564"
+      android:translateX="23.22"
+      android:translateY="23.22">
+    <path
+        android:pathData="M416.5,110.139c170.686,0 309.055,140.968 309.055,314.861S587.186,739.861 416.5,739.861 107.445,598.893 107.445,425 245.814,110.139 416.5,110.139Z"
+        android:fillColor="#0041fb"
+        android:fillType="evenOdd"/>
+    <path
+        android:pathData="M274,308m-250,0a250,250 0,1 1,500 0a250,250 0,1 1,-500 0"
+        android:strokeAlpha="0.76"
+        android:fillColor="#29e143"
+        android:fillAlpha="0.76"/>
+    <path
+        android:pathData="M796.5,425.5m-30.5,0a30.5,30.5 0,1 1,61 0a30.5,30.5 0,1 1,-61 0"
+        android:fillColor="#29e143"/>
+    <path
+        android:pathData="M751.5,506.5m-15.5,0a15.5,15.5 0,1 1,31 0a15.5,15.5 0,1 1,-31 0"
+        android:fillColor="#f14c4c"/>
+    <path
+        android:pathData="M107.5,610.5m-15.5,0a15.5,15.5 0,1 1,31 0a15.5,15.5 0,1 1,-31 0"
+        android:fillColor="#f69022"/>
+    <path
+        android:pathData="M439.844,57.844m-23.156,0a23.156,23.156 0,1 1,46.312 0a23.156,23.156 0,1 1,-46.312 0"
+        android:fillColor="#f69022"/>
+    <path
+        android:pathData="M45,477m-21,0a21,21 0,1 1,42 0a21,21 0,1 1,-42 0"
+        android:fillColor="#7c34ff"/>
+    <path
+        android:pathData="M564.438,111.79c114.964,0 208.16,93.2 208.16,208.161s-93.2,208.16 -208.16,208.16 -208.161,-93.2 -208.161,-208.16S449.474,111.79 564.438,111.79Z"
+        android:strokeAlpha="0.75"
+        android:fillColor="#f14c4c"
+        android:fillType="evenOdd"
+        android:fillAlpha="0.75"/>
+    <path
+        android:pathData="M522,574m-204,0a204,204 0,1 1,408 0a204,204 0,1 1,-408 0"
+        android:strokeAlpha="0.76"
+        android:fillColor="#f69022"
+        android:fillAlpha="0.76"/>
+  </group>
+</vector>
