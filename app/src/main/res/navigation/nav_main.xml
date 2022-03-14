@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/windowCompletionFragment2">
+    <fragment
+        android:id="@+id/windowCompletionFragment2"
+        android:name="ru.maxpek.sunrain.fragments.WindowCompletionFragment"
+        android:label="fragment_window_completion"
+        tools:layout="@layout/fragment_window_completion" />
+</navigation>

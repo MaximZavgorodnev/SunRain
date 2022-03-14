@@ -2,10 +2,13 @@ package ru.maxpek.sunrain
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.maxpek.sunrain.databinding.AppActivityBinding
 
-class MainActivity : AppCompatActivity() {
+
+class AppActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        val binding = AppActivityBinding.inflate(layoutInflater)
+        setContentView(binding.root)
     }
 }
