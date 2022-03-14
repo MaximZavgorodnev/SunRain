@@ -20,7 +20,8 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteY="53dp"
-        tools:text="@string/welcome" />
+        tools:text="@string/welcome"
+        android:fontFamily="@font/scott_room"/>
 
     <Button
         android:id="@+id/button"
